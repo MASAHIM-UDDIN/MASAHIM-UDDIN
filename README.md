@@ -18,6 +18,39 @@ I'm focused on building useful software rather than collecting technologies.
 
 ---
 
+
+<h2 align="center">🛠️ What I Build</h2>
+
+<table align="center">
+  <tr>
+    <th>Area</th>
+    <th>Focus</th>
+  </tr>
+  <tr>
+    <td align="center">🐍 Python</td>
+    <td align="center">Applications, OOP, APIs, automation</td>
+  </tr>
+  <tr>
+    <td align="center">🤖 AI</td>
+    <td align="center">LLMs, AI agents, experimentation</td>
+  </tr>
+  <tr>
+    <td align="center">🌐 Web</td>
+    <td align="center">Web apps, APIs, backend development</td>
+  </tr>
+  <tr>
+    <td align="center">⚙️ Automation</td>
+    <td align="center">Scripts, workflows, productivity tools</td>
+  </tr>
+  <tr>
+    <td align="center">🔐 Security</td>
+    <td align="center">Encryption, secure storage, security utilities</td>
+  </tr>
+</table>
+
+
+
+
 ## ⚡ What I Build
 
 | Area          | Focus                                          |
