@@ -51,16 +51,6 @@ I'm focused on building useful software rather than collecting technologies.
 
 
 
-## ⚡ What I Build
-
-| Area          | Focus                                          |
-| ------------- | ---------------------------------------------- |
-| 🐍 Python     | Applications, OOP, APIs, automation            |
-| 🤖 AI         | LLMs, AI agents, experimentation               |
-| 🌐 Web        | Web apps, APIs, backend development            |
-| ⚙️ Automation | Scripts, workflows, productivity tools         |
-| 🔐 Security   | Encryption, secure storage, security utilities |
-
 ---
 
 ## 🛠 Tech Stack
