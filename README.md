@@ -1,61 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100">
-  <style>
-    .text-container {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      font-size: 30px;
-      font-weight: 700;
-      fill: #24292F;
-    }
-    .word {
-      opacity: 0;
-      animation: revealAndFade 7s cubic-bezier(0.16, 1, 0.3, 1) infinite;
-    }
-    
-    .w1 { animation-delay: 0.0s; }
-    .w2 { animation-delay: 0.6s; }
-    .w3 { animation-delay: 1.2s; }
-    .w4 { animation-delay: 1.8s; }
-    .w5 { animation-delay: 2.4s; }
-    .w6 { animation-delay: 3.0s; }
-
-    @keyframes revealAndFade {
-      0% { opacity: 0; transform: translateY(8px); }
-      8% { opacity: 1; transform: translateY(0); }
-      72% { opacity: 1; transform: translateY(0); }
-      85%, 100% { opacity: 0; transform: translateY(-4px); }
-    }
-  </style>
-
-  <g class="text-container">
-    <text x="50%" y="58" text-anchor="middle">
-      <tspan class="word w1">👋 </tspan>
-      <tspan class="word w2">Hello, </tspan>
-      <tspan class="word w3">I'm </tspan>
-      <tspan class="word w4">Muhammad </tspan>
-      <tspan class="word w5">Masahim </tspan>
-      <tspan class="word w6">Uddin</tspan>
-    </text>
-  </g>
-</svg>
-
-
 <p align="center">
-  <strong>🐍 Python Developer · 🤖 AI & Automation · 🌐 Web Development · 🔐 Security</strong>
+  <img
+    src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/main/assets/hello-animation.svg"
+    width="850"
+    alt="👋 Hello, I'm Muhammad Masahim Uddin"
+  />
 </p>
-
-<p align="center">
-  I build practical software, automation tools, APIs, and AI-powered applications.
-</p>
-
-<p align="center">
-  <a href="https://github.com/MASAHIM-UDDIN">
-    <img src="https://img.shields.io/github/followers/MASAHIM-UDDIN?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MASAHIM-UDDIN?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-11-blue?style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 About Me
