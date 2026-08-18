@@ -65,31 +65,7 @@ A Python project for evaluating password strength.
 [View Repository →](https://github.com/MASAHIM-UDDIN/password-strength-meter)
 
 ---
-## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MASAHIM-UDDIN&show_icons=true&hide_border=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASAHIM-UDDIN&layout=compact&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/output/github-contribution-grid-snake.svg?v=20260818"
-    width="900"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
----
 
 ## 🐍 Contribution Activity
 
