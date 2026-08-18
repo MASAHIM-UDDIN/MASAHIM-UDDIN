@@ -1,39 +1,54 @@
-
-<h1 align="center">👋 Hello, I'm Muhammad Masahim Uddin</h1>
+<!-- =========================================================
+     PROFILE HEADER
+========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Automation;Web+Development;Cybersecurity" alt="Developer roles" />
+  <img
+    src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/main/assets/hello-animation.gif"
+    width="850"
+    alt="👋 Hello, I'm Muhammad Masahim Uddin"
+  />
 </p>
 
-## 🧠 About Me
-
-I'm focused on building useful software rather than collecting technologies.
-
-* 🐍 Python development
-* 🤖 AI, LLMs & agentic workflows
-* ⚙️ Automation & scripting
-* 🌐 Web applications & APIs
-* 🔐 Security-focused development
-* 🛠 Developer tools and practical utilities
-
----
-
-## ⚡ What I Build
-
-| Area          | Focus                                          |
-| ------------- | ---------------------------------------------- |
-| 🐍 Python     | Applications, OOP, APIs, automation            |
-| 🤖 AI         | LLMs, AI agents, experimentation               |
-| 🌐 Web        | Web apps, APIs, backend development            |
-| ⚙️ Automation | Scripts, workflows, productivity tools         |
-| 🔐 Security   | Encryption, secure storage, security utilities |
-
----
-
-## 🛠 Tech Stack
+<p align="center">
+  <strong>Python Developer • AI & Automation • Web Development • Cybersecurity</strong>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,html,css,js,flask,mysql" />
+  I build practical software, automation tools, APIs, and AI-powered solutions.
+</p>
+
+<p align="center">
+  <a href="https://github.com/MASAHIM-UDDIN">
+    <img src="https://img.shields.io/badge/GitHub-MASAHIM--UDDIN-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/MASAHIM-UDDIN?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-11-24292F?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/MASAHIM-UDDIN?tab=followers">
+    <img src="https://img.shields.io/github/followers/MASAHIM-UDDIN?style=for-the-badge&label=Followers" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a developer focused on building useful software and understanding how systems work under the hood.
+
+- 🐍 Python development
+- 🤖 AI, LLMs & automation
+- 🌐 Web applications & APIs
+- ⚙️ Developer tooling & scripting
+- 🔐 Security-focused development
+- 🐧 Linux & technical problem solving
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,mysql,git,github,linux,vscode&perline=10" />
 </p>
 
 ---
@@ -42,35 +57,66 @@ I'm focused on building useful software rather than collecting technologies.
 
 ### 🤖 Humanoid Agentic Textbook
 
-A practical exploration of AI agents, LLMs, and agentic workflows.
+A practical project exploring AI agents, LLM workflows, and agentic systems.
 
-[View Repository →](https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1)
+**Tech:** Python • AI • LLMs
 
-### 🔐 Secure Data Encryption System
-
-A security-focused project for encryption, secure storage, and data protection.
-
-[View Repository →](https://github.com/MASAHIM-UDDIN/-Secure-Data-Encryption-System)
-
-### 🔢 Unit Converter
-
-A practical Python utility project for converting between common units.
-
-[View Repository →](https://github.com/MASAHIM-UDDIN/unit-converter1)
-
-### 🔑 Password Strength Meter
-
-A Python project for evaluating password strength.
-
-[View Repository →](https://github.com/MASAHIM-UDDIN/password-strength-meter)
+[View Project →](https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1)
 
 ---
 
+### 🔐 Secure Data Encryption System
 
-## 🐍 Contribution Activity
+A security-focused project built around encryption and secure data handling.
+
+**Tech:** Python • Cryptography • Security
+
+[View Project →](https://github.com/MASAHIM-UDDIN/-Secure-Data-Encryption-System)
+
+---
+
+### 🔢 Unit Converter
+
+A lightweight Python utility for converting values between different units.
+
+**Tech:** Python
+
+[View Project →](https://github.com/MASAHIM-UDDIN/unit-converter1)
+
+---
+
+### 🔑 Password Strength Meter
+
+A Python utility that evaluates password strength and provides feedback.
+
+**Tech:** Python • Security
+
+[View Project →](https://github.com/MASAHIM-UDDIN/password-strength-meter)
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/output/github-contribution-grid-snake.svg?v=2026" width="900" alt="GitHub contribution activity" />
+  <img
+    src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/output/github-stats.svg?v=20260818"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/output/top-languages.svg?v=20260818"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/output/github-contribution-grid-snake.svg?v=20260818"
+    width="900"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 ---
@@ -78,9 +124,8 @@ A Python project for evaluating password strength.
 ## 🧠 Currently Learning
 
 ```text
-Python
+PYTHON
 ├── Advanced Python
-├── OOP
 ├── APIs
 ├── Async Programming
 └── Automation
@@ -88,27 +133,9 @@ Python
 AI
 ├── LLMs
 ├── AI Agents
-└── Machine Learning
+└── AI Automation
 
-Security
+SECURITY
 ├── Secure Coding
 ├── Encryption
-└── Linux
-```
-
----
-
-## 📫 Connect
-
-<p align="center">
-  <a href="https://github.com/MASAHIM-UDDIN">
-    <img src="https://img.shields.io/badge/GitHub-MASAHIM--UDDIN-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://twitter.com/WEBdeveloper_IT">
-    <img src="https://img.shields.io/badge/X-WEBdeveloper__IT-000000?style=for-the-badge&logo=x" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Building. Learning. Shipping.</strong>
-</p>
+└── Linux Security
