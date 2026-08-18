@@ -152,31 +152,6 @@ Simple and practical utility for converting common units.
 </tr>
 </table>
 
-## 🚀 Featured Projects
-
-### 🤖 Humanoid Agentic Textbook
-
-A practical exploration of AI agents, LLMs, and agentic workflows.
-
-[View Repository →](https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1)
-
-### 🔐 Secure Data Encryption System
-
-A security-focused project for encryption, secure storage, and data protection.
-
-[View Repository →](https://github.com/MASAHIM-UDDIN/-Secure-Data-Encryption-System)
-
-### 🔢 Unit Converter
-
-A practical Python utility project for converting between common units.
-
-[View Repository →](https://github.com/MASAHIM-UDDIN/unit-converter1)
-
-### 🔑 Password Strength Meter
-
-A Python project for evaluating password strength.
-
-[View Repository →](https://github.com/MASAHIM-UDDIN/password-strength-meter)
 
 ---
 
