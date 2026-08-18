@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=60&pause=1200&color=24292F&center=true&vCenter=true&width=900&lines=👋+Hello%2C+I'm+Muhammad+Masahim+Uddin" alt="👋 Hello, I'm Muhammad Masahim Uddin" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=60&pause=1200&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hello%2C+I'm+Muhammad+Masahim+Uddin"
+    alt="👋 Hello, I'm Muhammad Masahim Uddin"
+  />
 </p>
 
 <p align="center">
