@@ -5,6 +5,91 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Automation;Web+Development;Cybersecurity" alt="Developer roles" />
 </p>
 
+
+<h2 align="center">🧠 About Me</h2>
+
+<p align="center">
+  <strong>I build useful software, automate repetitive work, and explore the intersection of AI, development, and security.</strong>
+</p>
+
+<p align="center">
+  I'm more interested in building things that work than collecting technologies.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+<h3>🐍 Python</h3>
+<p>
+Applications<br>
+APIs · OOP · Automation
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🤖 AI & LLMs</h3>
+<p>
+AI Agents<br>
+LLMs · Workflows · Experimentation
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>⚙️ Automation</h3>
+<p>
+Scripting<br>
+Workflows · Productivity Tools
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+
+<h3>🌐 Web</h3>
+<p>
+Web Applications<br>
+Backend · APIs
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🔐 Security</h3>
+<p>
+Secure Development<br>
+Encryption · Data Protection
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🛠 Developer Tools</h3>
+<p>
+Utilities<br>
+CLI Tools · Practical Software
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <i>Build → Experiment → Improve → Ship</i>
+</p>
+
 ## 🧠 About Me
 
 I'm focused on building useful software rather than collecting technologies.
