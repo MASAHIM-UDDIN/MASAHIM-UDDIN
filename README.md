@@ -61,6 +61,97 @@ I'm focused on building useful software rather than collecting technologies.
 
 ---
 
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Humanoid Agentic Textbook</h3>
+
+<p align="center">
+Practical exploration of AI agents, LLMs, and agentic workflows.
+</p>
+
+<p align="center">
+<b>Python · AI · LLMs</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/MASAHIM-UDDIN/Humaniod-Agentic-Textbook-1">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔐 Secure Data Encryption System</h3>
+
+<p align="center">
+Security-focused project for encryption and secure data handling.
+</p>
+
+<p align="center">
+<b>Python · Cryptography · Security</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/MASAHIM-UDDIN/-Secure-Data-Encryption-System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔑 Password Strength Meter</h3>
+
+<p align="center">
+Python utility for evaluating password strength and security.
+</p>
+
+<p align="center">
+<b>Python · Security</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/MASAHIM-UDDIN/password-strength-meter">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔢 Unit Converter</h3>
+
+<p align="center">
+Simple and practical utility for converting common units.
+</p>
+
+<p align="center">
+<b>Python · Utility</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/MASAHIM-UDDIN/unit-converter1">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
 ## 🚀 Featured Projects
 
 ### 🤖 Humanoid Agentic Textbook
