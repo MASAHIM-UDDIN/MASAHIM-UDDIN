@@ -1,10 +1,9 @@
+
+<h1 align="center">👋 Hello, I'm Muhammad Masahim Uddin</h1>
+
 <p align="center">
-<text x="20"  y="62" class="word w1">👋</text>
-  <text x="72"  y="62" class="word w2">Hello,</text>
-  <text x="210" y="62" class="word w3">I'm</text>
-  <text x="285" y="62" class="word w4">Muhammad</text>
-  <text x="525" y="62" class="word w5">Masahim</text>
-  <text x="720" y="62" class="word w6">Uddin</text>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Automation;Web+Development;Cybersecurity" alt="Developer roles" />
+</p>
 
 ## 🧠 About Me
 
