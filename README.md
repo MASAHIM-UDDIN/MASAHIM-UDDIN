@@ -90,16 +90,7 @@ CLI Tools · Practical Software
   <i>Build → Experiment → Improve → Ship</i>
 </p>
 
-## 🧠 About Me
 
-I'm focused on building useful software rather than collecting technologies.
-
-* 🐍 Python development
-* 🤖 AI, LLMs & agentic workflows
-* ⚙️ Automation & scripting
-* 🌐 Web applications & APIs
-* 🔐 Security-focused development
-* 🛠 Developer tools and practical utilities
 
 ---
 
