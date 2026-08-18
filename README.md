@@ -1,6 +1,7 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=60&pause=1200&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hello%2C+I'm+Muhammad+Masahim+Uddin"
+    src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/main/assets/hello-animation.svg"
+    width="850"
     alt="👋 Hello, I'm Muhammad Masahim Uddin"
   />
 </p>
