@@ -1,11 +1,10 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/MASAHIM-UDDIN/Developer/main/assets/hello-animation.svg"
-    width="850"
-    alt="👋 Hello, I'm Muhammad Masahim Uddin"
-  />
-</p>
----
+<text x="20"  y="62" class="word w1">👋</text>
+  <text x="72"  y="62" class="word w2">Hello,</text>
+  <text x="210" y="62" class="word w3">I'm</text>
+  <text x="285" y="62" class="word w4">Muhammad</text>
+  <text x="525" y="62" class="word w5">Masahim</text>
+  <text x="720" y="62" class="word w6">Uddin</text>
 
 ## 🧠 About Me
 
